@@ -8,9 +8,10 @@ class App extends Component {
       <Router>
         <React.Fragment>
           <Switch>
+            <Route exact path="/" component={Home} />
           </Switch>
-   </React.Fragment>
-</Router>
+        </React.Fragment>
+      </Router>
     );
   }
 }
