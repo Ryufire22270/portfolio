@@ -8,6 +8,7 @@ body {
   display: block;
   margin: 0 auto;
   width: 200px;
+  padding-left: 50px;
 }
 
 a {
@@ -43,4 +44,94 @@ ul {
 .home-links {
   list-style-type: none;
   text-decoration: none;
+}
+
+.announce-list {
+  margin-top: 100px
+}
+
+.announce {
+  text-align: center;
+  color: #004E98;
+}
+
+.tech-name {
+  text-align: center;
+  margin-top: 100px;
+  color: #004E98;
+}
+
+.tech-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.tech-list {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+
+.github-logo {
+  width: 120px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.css-logo {
+  width: 120px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.html-logo {
+  width: 120px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.html5-logo {
+  width: 120px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.js-logo {
+  width: 120px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.react-logo {
+  width: 130px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 100px;
+  margin-left: 50px;
+}
+
+.node-logo {
+  height: 110px;
+  width: 130px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.express-logo {
+  width: 150px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.sql-logo {
+  width: 120px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
