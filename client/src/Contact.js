@@ -13,7 +13,6 @@ class Contact extends Component {
               <h2 className="contact-name">Matthew Jacobs</h2>
               <h2 className="contact-job">Web Developer</h2>
               <h2 className="contact-location">Greater New York Area</h2>
-              <h2 className="contact-phone">(973)-715-5800</h2>
               <h2 className="contact-email">mjacobs21321@gmail.com</h2>
               <h2 className="contact-git">github.com/Ryufire22270</h2>
               <h2 className="contact-linkedin">linkedin.com/in/matthewjacobs21/</h2>

@@ -186,3 +186,70 @@ ul {
   width: 100%;
   border-radius: 5px;
 }
+
+.project-page {
+  text-align: center;
+}
+
+.project-page-full {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.project-one-single {
+  background-color: lightblue;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5px;
+}
+
+.project-one-image {
+  margin: 20px 0 20px 0;
+}
+
+.project-two-single {
+  background-color: lightblue;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5px;
+}
+
+.project-two-image {
+  margin: 20px 0 20px 0;
+}
+
+.project-three-single {
+  background-color: lightblue;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5px;
+}
+
+.project-three-image {
+  margin: 20px 0 20px 0;
+}
+
+.project-four-single {
+  background-color: lightblue;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5px;
+}
+
+.project-four-image {
+  margin: 20px 0 20px 0;
+}
+
+.project-links {
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  margin-left: 45%;
+  margin-right: 45%;
+}
