@@ -3,6 +3,7 @@ import './App.css';
 import Home from './Home.js';
 import About from './About.js';
 import Contact from './Contact.js';
+import Projects from './Projects.js'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 class App extends Component {
@@ -14,6 +15,7 @@ class App extends Component {
             <Route exact path="/" component={Home} />
             <Route exact path="/aboutme" component={About} />
             <Route exact path="/contactme" component={Contact} />
+            <Route exact path="/myprojects" component={Projects} />
           </Switch>
         </React.Fragment>
       </Router>
