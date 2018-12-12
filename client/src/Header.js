@@ -5,7 +5,7 @@ function Header() {
   return (
     <header>
        <nav>
-        <img className="TBA" src="https://www.fillmurray.com/g/200/300" title="source: fillmurray.com" />
+        <img className="logo" src="https://res.cloudinary.com/divbx6fna/image/upload/v1544640614/MJ_Logo.png" title="source: cloudinary.com" />
         <ul className='home-list'>
           <li className="home-links"><Link to='/'>Home</Link></li>
           <li className="home-links"><Link to='/aboutme'>About Me</Link></li>
