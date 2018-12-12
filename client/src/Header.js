@@ -9,7 +9,7 @@ function Header() {
         <ul className='home-list'>
           <li className="home-links"><Link to='/'>Home</Link></li>
           <li className="home-links"><Link to='/aboutme'>About Me</Link></li>
-          <li className="home-links"><Link to='/projects'>My Projects</Link></li>
+          <li className="home-links"><Link to='/myprojects'>My Projects</Link></li>
           <li className="home-link"><Link to='/contactme'>Contact me</Link></li>
         </ul>
       </nav>
